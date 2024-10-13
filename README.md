@@ -1,4 +1,4 @@
-This repository contains the solution for the Housing(pyTorch) and orbit(Keras) datasets
+This repository contains the solution for the Housing (pyTorch) and orbit (Keras) datasets
 # Deep Learning Assignment 1 - PyTorch Regression
 
 . The goal is to build a neural network that predicts continuous target values based on the 12 input features.
